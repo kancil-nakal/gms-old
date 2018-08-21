@@ -1,0 +1,28 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
+<div class="p-a white lt box-shadow">
+	<div class="row">
+		<div class="col-sm-6">
+			<h4 class="m-b-0 _300">Panic</h4>
+		</div>
+	</div>
+</div>
+
+<div class="padding">
+	<div class="row">
+		<div class="box">
+			<div class="box-body">
+				<div class="table-responsive">
+					<div id="toolbarPanic">
+						<a href="<?php echo base_url('panic/form'); ?>" class="btn btn-block btn-success">
+							<i class="glyphicon glyphicon-plus"></i> New Panic
+						</a>
+					</div>
+					<table class="table table-bordered" id="listPanic"></table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="<?= base_url() ?>scripts/apps/panic.js"></script>

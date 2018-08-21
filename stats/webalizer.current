@@ -1,0 +1,572 @@
+# Webalizer V2.23-08 Incremental Data - 12/02/2017 21:17:16
+2017 12 2 21 17 16
+5694 706 14 162 25 9 145732905 592 24 0 0 0
+8 6 2034 1 2
+1319 219 67258221 9 135 11 0 0
+4375 487 78474684 8 457 13 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 11727470 2 0 0
+0 0 0 0 0 0
+666 39 3007658 47 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+582 30 15766410 39 0 0
+765 103 3958143 92 0 0
+260 25 19624429 30 0 0
+16 8 25006524 8 0 0
+851 64 17701702 70 0 0
+0 0 0 0 0 0
+33 5 5879927 3 0 0
+30 3 9349 2 0 0
+0 0 0 0 0 0
+4 2 6701526 2 0 0
+2153 329 23875135 244 0 0
+322 87 730608 48 0 0
+8 7 11744024 5 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+706
+0
+0
+0
+96
+0
+0
+0
+0
+0
+18
+1222
+0
+10
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3639
+0
+0
+0
+0
+0
+# -urls- 
+/assets/images/photo/apti/32x32xbaru3.png.pagespeed.ic.9Auke2waVL.webp
+0 1 0 14058 0 0 0 0
+/resources/apps/tempelad_201712010600.apk
+0 19 95441 55699165 0 0 0 0
+/libs/jquery/jquery/dist/jquery.js
+0 36 0 575823 0 0 0 0
+/message/save
+0 1 0 390 0 0 0 0
+/events/listEvents
+0 1 0 718 0 0 0 0
+/dashboard/getDetail/all
+0 9 0 6328 0 0 0 0
+/scripts/apps/log.js,q5.pagespeed.jm.TsBkXFenZv.js
+0 3 0 4985 0 0 0 0
+/assets/images/start.png
+1 3 0 3541 0 0 0 0
+/withdraw/withdraw
+0 6 0 4751 0 0 0 0
+/assets,_animate.css,_animate.min.css+assets,_glyphicons,_glyphicons.css+assets,_font-awesome,_css,_font-awesome.min.css+assets,_material-design-icons,_material-design-icons.css+assets,_bootstrap,_dist,_css,_bootstrap.min.css+assets,_bootstraptable,_bootstrap-table.min.css+libs,_jquery,_bootstrap-datepicker,_css,_bootstrap-datepicker.css+libs,_jquery,_parsleyjs,_dist,_parsley.css+libs,_jquery,_sweetalert,_sweetalert.css+assets,_styles,_app.css.pagespeed.cc.JjjxFBx64S.css
+0 2 0 108872 0 0 0 0
+/withdraw
+0 7 0 37326 0 0 0 0
+/scripts/ui-nav.js
+0 30 0 4221 0 0 0 0
+/events/getone_byroute/081314509993/2017-12-01
+0 1 0 533 0 0 0 0
+/events/getone_byroute/081314509993/2017-11-18
+0 2 0 1053 0 0 0 0
+/client/edit
+0 1 0 389 0 0 0 0
+/scripts/apps/topup.js
+0 4 0 1483 0 0 0 0
+/assets/glyphicons/glyphicons.css
+0 31 0 10741 0 0 0 0
+/assets/images/photo/client/32x32xbakmi-mewah1.png.pagespeed.ic.OiHUHgQidt.webp
+0 2 0 280 0 0 0 0
+/withdraw/apti
+0 8 0 6316 0 0 0 0
+/assets/material-design-icons/iconfont/MaterialIcons-Regular.woff2
+0 11 0 112579 0 0 0 0
+/libs/jquery/bootstrap-datepicker/css/bootstrap-datepicker.css.map
+0 1 0 168 0 0 0 0
+/assets/styles/A.font.css+custome.css,Mcc.-FYSmoFHIY.css.pagespeed.cf.PRnv1U2MsI.css
+0 12 0 25883 0 0 0 0
+/dashboard/getroute
+0 16 0 13690 0 1 0 0
+/log/getLog
+0 14 0 10129 1 0 0 0
+/log/getLogDetail/082113900934
+0 1 0 861 0 0 0 0
+/assets/images/xico.png.pagespeed.ic.-6V5JyMeOU.webp
+0 4 7088433212873203500 3823 0 0 0 0
+/withdraw/finance
+0 10 0 7581 0 0 0 0
+/log/getLogDetail/082113467421
+0 3 0 2559 0 0 0 0
+/log/getLogDetail/085780325566
+0 5 0 4488 0 0 0 0
+/assets/images/xico.png.pagespeed.ic.f0ZdRdDS9y.webp
+0 16 0 26371 0 0 0 0
+/scripts/apps/log.js
+0 11 0 16398 0 0 0 0
+/libs/jquery/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 30 0 54245 0 0 0 0
+/scripts/apps/client.js,q1.pagespeed.jm.CHC6nUSByC.js
+0 6 0 5182 0 0 0 0
+/log
+0 13 0 67502 1 1 0 0
+/assets/font-awesome/css/font-awesome.min.css
+0 31 0 19725 0 0 0 0
+/libs/jquery/jQuery-Storage-API/jquery.storageapi.min.js
+0 30 0 9884 0 0 0 0
+/assets/animate.css/animate.min.css
+0 31 0 14382 0 0 0 0
+/photo/listPhoto
+0 11 0 9394 0 1 0 0
+/scripts/config.lazyload.js
+0 16 0 3616 0 0 0 0
+/scripts/apps/photo.js
+0 3 0 2370 0 0 0 0
+/libs/jquery/lightbox/css/lightbox.min.css
+0 2 0 3141 0 0 0 0
+/libs/jquery/sweetalert/sweetalert.js.pagespeed.jm.Lpnj8A3by2.js
+0 9 0 22285 0 0 0 0
+/assets/material-design-icons/material-design-icons.css
+0 31 0 5107 0 0 0 0
+/summary/getReport
+0 2 0 1750 0 0 0 0
+/assets/styles/font.css
+0 31 0 4185 0 0 0 0
+/scripts/plugins/autoNumeric.min.js.pagespeed.jm.mZa0n6A-x_.js
+0 9 0 38686 0 0 0 0
+/gmap/location/11/all
+0 42 0 27566 0 1 0 0
+/libs/jquery/parsleyjs/dist/parsley.css
+0 27 0 2780 0 0 0 0
+/scripts/apps/dashboard.js
+0 3 0 336 0 0 0 0
+/log/exportDetail/082113900934/2017-11-30
+0 1 0 8224 0 0 0 0
+/message/publish/234/1
+0 1 0 562 0 0 0 0
+/scripts/ui-load.js
+0 16 0 3686 0 0 0 0
+/withdraw/pay/5
+0 1 0 562 0 0 0 0
+/assets/styles/font.css+custome.css.pagespeed.cc.-FYSmoFHIY.css
+0 2 0 8240 0 0 0 0
+/dashboard/countroute
+0 10 0 6608 0 0 0 0
+/scripts/ui-include.js
+0 30 0 5231 0 0 0 0
+/libs/jquery/tinymce/js/tinymce/skins/lightgray/skin.min.css
+0 1 0 8283 0 0 0 0
+/assets/glyphicons/glyphicons-halflings-regular.woff2
+0 6 0 37136 0 0 0 0
+/assets/font-awesome/fonts/fontawesome-webfont.woff2
+0 11 0 172256 0 0 0 0
+/assets/bootstrap/dist/css/bootstrap.min.css.map
+0 1 0 17341 0 0 0 0
+/libs/jquery/lightbox/images/prev.png
+1 3 0 1801 0 0 0 0
+/events/getone_byroute/085780325566/2017-11-30
+0 2 0 1055 0 0 0 0
+/scripts/apps/events.js
+0 2 0 3899 0 0 0 0
+/libs/jquery/bootstrap-datepicker/css/bootstrap-datepicker.css
+0 27 0 4780 0 0 0 0
+/log/getLogDetail/081314509993
+0 1 0 846 0 0 0 0
+/message/form
+0 1 0 7485 0 0 0 0
+/download
+0 18 0 26400022 12 6 0 0
+/libs/jquery/tinymce/js/tinymce/plugins/codesample/css/prism.css
+0 1 0 1186 0 0 0 0
+/events/form/5
+0 1 0 7543 0 0 0 0
+/libs,_jquery,_underscore,_underscore-min.js+libs,_jquery,_jQuery-Storage-API,_jquery.storageapi.min.js+libs,_jquery,_PACE,_pace.min.js+scripts,_ui-include.js+scripts,_palette.js+scripts,_ui-device.js+scripts,_ui-form.js+scripts,_ui-nav.js+scripts,_ui-scroll-to.js+scripts,_ui-toggle-class.js+scripts,_app.js.pagespeed.jc.muwIo6Evot.js
+0 10 0 32854 0 0 0 0
+/libs/jquery/jquery.googleMap/jquery.googlemap.js
+0 30 0 10403 0 0 0 0
+/libs/jquery/jquery/dist/jquery.js.pagespeed.jm.5G34mqCMBQ.js
+0 11 0 77178 0 0 0 0
+/dashboard/location
+0 16 0 10639 0 0 0 0
+/driver/listDriver
+0 4 0 3929 0 0 0 0
+/assets/bootstrap/dist/css/bootstrap.min.css
+0 31 0 56401 0 0 0 0
+/scripts/palette.js
+0 30 0 10775 0 0 0 0
+/gmap/latlng/11
+0 21 0 12123 0 0 0 0
+/scripts/app.js
+0 30 0 5432 0 0 0 0
+/libs/jquery/lightbox/js/lightbox-plus-jquery.min.js
+0 4 0 160381 0 0 0 0
+/scripts/apps/withdraws.js
+0 2 0 7930 0 0 0 0
+/log/getmarker
+0 10 0 5654 0 0 0 0
+/assets/images/photo/iklan/b6726767b8640714ce7778365cf5c1eb.jpg
+1 3 0 504 0 0 0 0
+/scripts/apps/withdraw.js
+0 4 0 5040 0 0 0 0
+/scripts/apps/dashboard.js,q1.pagespeed.jm.dVW23ygYOK.js
+0 2 0 280 0 0 0 0
+/libs/jquery/parsleyjs/dist/parsley.min.js
+0 27 0 25387 0 0 0 0
+/assets/images/marker.png
+1 9 0 6786 0 0 0 0
+/libs/jquery/PACE/pace.min.js
+0 30 0 16570 0 0 0 0
+/topup
+0 4 0 21869 0 0 0 0
+/events
+0 1 0 5676 0 0 0 0
+/libs/jquery/tinymce/js/tinymce/skins/lightgray/content.min.css
+0 1 0 1520 0 0 0 0
+/scripts/ui-device.js
+0 30 0 4515 0 0 0 0
+/scripts/apps/client.js
+0 21 0 7160 0 0 0 0
+/client/form/3
+0 4 0 27220 0 0 0 0
+/summary
+0 2 0 13222 0 0 0 0
+/libs/jquery/underscore/underscore-min.js
+0 30 0 21065 0 0 0 0
+/scripts/apps/summaryClient.js
+0 3 0 8905 0 0 0 0
+/assets/styles/app.css
+0 31 0 61504 0 0 0 0
+/libs/jquery/sweetalert/sweetalert.js
+0 29 0 99693 0 0 0 0
+/assets/bootstraptable/bootstrap-table.min.css
+0 27 0 4486 0 0 0 0
+/scripts/ui-jp.js
+0 16 0 2728 0 0 0 0
+/libs/jquery/lightbox/images/close.png
+1 3 0 720 0 0 0 0
+/libs/jquery/tether,_dist,_js,_tether.min.js+parsleyjs,_dist,_parsley.min.js.pagespeed.jc.1HvGz9adR7.js
+0 10 0 37623 0 0 0 0
+/libs/jquery/jquery.googleMap/jquery.googlemap.js.pagespeed.jm.X2DINkjuVM.js
+0 9 0 5322 0 0 0 0
+/auth
+0 20 0 64041 1 0 0 0
+/assets/images/ico.png
+1 38 0 24504 0 0 0 0
+/api/manageData/2
+0 45 0 40740 0 1 0 0
+/photo
+0 3 0 11822 1 0 0 0
+/libs/jquery/bootstrap-datepicker/js/bootstrap-datepicker.min.js.pagespeed.jm.OpmpW129i0.js
+0 9 0 21470 0 0 0 0
+/client
+0 35 0 207953 2 0 0 0
+/assets/images/photo/client/bakmi-mewah1.png
+1 5 0 420 0 0 0 0
+/withdraw/pay/7
+0 1 0 562 0 0 0 0
+/scripts/ui-toggle-class.js
+0 30 0 4693 0 0 0 0
+/message/listMessageAll
+0 6 0 5401 0 0 0 0
+/libs/jquery/bootstraptable/bootstrap-table.js.pagespeed.jm.ehmx7hkX8f.js
+0 9 0 33123 0 0 0 0
+/withdraw/transfer/7
+0 1 0 561 0 0 0 0
+/libs/js/moment/moment.js
+0 30 0 117884 0 0 0 0
+/assets/images/photo/apti/baru3.png
+1 2 0 27799 0 0 0 0
+/events/getone_byroute/085780325566/2017-12-02
+0 9 0 4709 0 0 0 0
+/libs/jquery/sweetalert/sweetalert.css
+0 27 0 5737 0 0 0 0
+/log/getLogDetailClient/085780325566
+0 2 0 1661 0 0 0 0
+/api/manageData/1
+0 1 0 883 0 0 0 0
+/operator
+0 1 0 5690 0 0 0 0
+/assets/styles/custome.css
+0 31 0 14291 0 0 0 0
+/scripts/ui-form.js
+0 30 0 4083 0 0 0 0
+/withdraw/transfer/5
+0 1 0 562 0 0 0 0
+/A.assets,,_animate.css,,_animate.min.css+assets,,_glyphicons,,_glyphicons.css+assets,,_font-awesome,,_css,,_font-awesome.min.css+assets,,_material-design-icons,,_material-design-icons.css+assets,,_bootstrap,,_dist,,_css,,_bootstrap.min.css+assets,,_bootstraptable,,_bootstrap-table.min.css+libs,,_jquery,,_bootstrap-datepicker,,_css,,_bootstrap-datepicker.css+libs,,_jquery,,_parsleyjs,,_dist,,_parsley.css+libs,,_jquery,,_sweetalert,,_sweetalert.css+assets,,_styles,,_app.css,Mcc.JjjxFBx64S.css.pagespeed.cf.X
+0 15 0 351269 0 0 0 0
+/assets/images/xlogo1.png.pagespeed.ic.4MJnroVRtp.webp
+0 7 0 12859 0 0 0 0
+/
+0 37 0 145858 5 0 0 0
+/scripts/apps/operator.js
+0 1 0 84 0 0 0 0
+/scripts/apps/driver.js
+0 3 0 1817 0 0 0 0
+/scripts/apps/summary.js
+0 1 0 84 0 0 0 0
+/scripts/apps/message.js
+0 2 0 7581 0 0 0 0
+/libs/js/moment/moment.js.pagespeed.jm.e_X4OfJUio.js
+0 9 0 31140 0 0 0 0
+/libs/jquery/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff
+0 1 0 17741 0 0 0 0
+/libs/jquery/lightbox/images/next.png
+1 3 0 1791 0 0 0 0
+/scripts/apps/logClient.js
+0 6 0 9274 0 0 0 0
+/message/form/234
+0 1 0 7571 0 0 0 0
+/resources/apps/tempelad_201712020600.apk
+0 3 0 8793933 0 0 0 0
+/driver/form/7
+0 1 0 9704 0 0 0 0
+/message
+0 4 0 23309 0 0 0 0
+/dashboard/getArea
+0 8 0 5008 1 0 0 0
+/assets/images/photo/no-image.png
+1 27 0 14085 0 0 0 0
+/message/form/6
+0 1 0 7849 0 0 0 0
+/api/status/3/0
+0 2 0 1124 0 0 0 0
+/scripts/plugins/autoNumeric.min.js
+0 30 0 96670 0 0 0 0
+/withdraw/export/0
+0 1 0 5002 0 0 0 0
+/driver
+0 2 0 11028 0 0 0 0
+/libs/jquery/bootstrap/dist/js/bootstrap.js.pagespeed.jm.3QIRH7_In7.js
+0 9 0 28357 0 0 0 0
+/assets/images/logo1.png
+1 32 0 23699 0 0 0 0
+/resources/apps/tempelad_201712021200.apk
+0 7 0 20520681 0 0 0 0
+/libs/jquery/bootstrap/dist/js/bootstrap.js
+0 33 0 101403 0 0 0 0
+/message/listMessagePersonal
+0 5 0 4092 0 0 0 0
+/libs/jquery/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff
+0 1 0 9637 0 0 0 0
+/assets/images/xlogo1.png.pagespeed.ic.ixyDihovpG.webp
+0 3 0 420 0 0 0 0
+/scripts/ui-scroll-to.js
+0 30 0 4632 0 0 0 0
+/scripts/apps/withdraws.js,q1.pagespeed.jm.QHdbbQ_dhQ.js
+0 2 0 7649 0 0 0 0
+/libs/jquery/lightbox/images/loading.gif
+1 4 0 26359 0 0 0 0
+/libs/jquery/bootstraptable/bootstrap-table.js
+0 30 0 108748 0 0 0 0
+/libs/jquery/tether/dist/js/tether.min.js
+0 30 0 24060 0 0 0 0
+/assets/images/finish.png
+1 3 0 3511 0 0 0 0
+/api/status/3/1
+0 7 0 3921 0 0 0 0
+/events/getone_byroute/085780325566/2017-12-01
+0 2 0 1068 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+64.233.173.44
+0 3 3 2934654 2 1512249436 0 0
+/download
+66.102.6.192
+0 3 3 7081 1 1512230641 0 0
+/auth
+120.188.6.24
+0 2 0 642996 1 1512128255 0 0
+/download
+120.188.6.58
+0 4 0 1338564 2 1512153667 0 0
+/download
+202.153.152.52
+0 1677 167 10447770 3 1512249100 0 0
+/log/exportDetail/082113900934/2017-11-30
+66.102.6.220
+0 2 2 3537 1 1512141840 0 0
+/
+114.4.78.239
+0 6 0 1054136 1 1512132767 0 0
+/download
+64.233.173.40
+0 4 4 8797775 3 1512241883 0 0
+/download
+172.104.187.75
+0 1103 44 85329373 0 0 0 0
+-
+125.166.210.39
+0 2553 239 29921177 5 1512221753 0 0
+/log/getLog
+66.102.6.222
+0 1 1 3545 1 1512141840 0 0
+/auth
+112.215.151.125
+0 6 4 3049516 2 1512244205 0 0
+/download
+114.124.232.10
+0 122 101 1039279 1 1512242154 0 0
+/gmap/location/11/all
+114.124.213.236
+0 208 138 1163502 1 1512159114 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+64.233.173.44
+0 3 3 2934654 2 1512249436 0 0
+/download
+66.102.6.192
+0 3 3 7081 1 1512230641 0 0
+/auth
+202.153.152.52
+0 1677 167 10447770 3 1512249100 0 0
+/log/exportDetail/082113900934/2017-11-30
+64.233.173.40
+0 3 3 5865575 2 1512241883 0 0
+/download
+172.104.187.75
+0 664 27 35457830 0 0 0 0
+-
+125.166.210.39
+0 1897 179 19672979 2 1512221753 0 0
+/log/getLog
+112.215.151.125
+0 6 4 3049516 2 1512244205 0 0
+/download
+114.124.232.10
+0 122 101 1039279 1 1512242154 0 0
+/gmap/location/11/all
+# End Of Table - sites (daily)
+# -referrers- 
+http://tempelad.mesinrusak.com/message/form
+0 7
+http://tempelad.mesinrusak.com/operator
+0 4
+http://tempelad.mesinrusak.com/
+0 386
+http://tempelad.mesinrusak.com/message/form/234
+0 3
+http://tempelad.mesinrusak.com/assets,_animate.css,_animate.min.css+assets,_glyphicons,_glyphicons.css+assets,_font-awesome,_css,_font-awesome.min.css+assets,_material-design-icons,_material-design-icons.css+assets,_bootstrap,_dist,_css,_bootstrap.min.css
+0 4
+http://tempelad.mesinrusak.com/log
+0 314
+http://tempelad.mesinrusak.com/libs/jquery/tinymce/js/tinymce/skins/lightgray/skin.min.css
+0 2
+http://tempelad.mesinrusak.com/client
+0 531
+http://tempelad.mesinrusak.com/events/form/5
+0 2
+http://tempelad.mesinrusak.com/assets,_styles,_font.css+assets,_styles,_custome.css+libs,_jquery,_lightbox,_css,_lightbox.min.css.pagespeed.cc.2XLwUinvGi.css
+0 5
+http://tempelad.mesinrusak.com/message/save
+0 1
+http://tempelad.mesinrusak.com/topup
+0 25
+- (Direct Request)
+0 3730
+http://tempelad.mesinrusak.com/withdraw
+0 125
+http://tempelad.mesinrusak.com/message
+0 22
+http://tempelad.mesinrusak.com/summary
+0 15
+http://tempelad.mesinrusak.com/message/form/6
+0 2
+http://tempelad.mesinrusak.com/A.assets,,_animate.css,,_animate.min.css+assets,,_glyphicons,,_glyphicons.css+assets,,_font-awesome,,_css,,_font-awesome.min.css+assets,,_material-design-icons,,_material-design-icons.css+assets,,_bootstrap,,_dist,,_css,,_bo
+0 24
+http://tempelad.mesinrusak.com/photo
+0 32
+http://tempelad.mesinrusak.com/client/edit
+0 1
+http://tempelad.mesinrusak.com/auth
+0 390
+http://tempelad.mesinrusak.com/events
+0 5
+http://tempelad.mesinrusak.com/driver
+0 12
+http://tempelad.mesinrusak.com/client/form/3
+0 47
+http://tempelad.mesinrusak.com/driver/form/7
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 4.4.2; R1011 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 4218
+Serf/1.3.8 (mod_pagespeed/1.12.34.2-0)
+0 1065
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; 2014817 MIUI/V8.2.1.0.KHJMIDL)
+0 7
+Mozilla/5.0 (Linux; U; Android 4.4.4; en-us; 2014817 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 331
+AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; R1011 Build/KOT49H)
+0 6
+AndroidDownloadManager/4.4.4 (Linux; U; Android 4.4.4; 2014817 Build/KTU84P)
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile S
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

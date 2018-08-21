@@ -1,0 +1,176 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
+<div class="p-a white lt box-shadow">
+	<div class="row">
+		<div class="col-sm-6">
+			<h4 class="m-b-0 _300">Edit Client</h4>
+		</div>
+	</div>
+</div>
+
+<div class="padding">
+	<div class="row">
+		<?php foreach ($getData as $row) { ?>
+			<form action="<?php echo base_url('client/edit'); ?>" method="post" enctype="multipart/form-data">
+				<div class="box">
+					<div class="box-body">
+						<div class="row">
+							<div class="col-sm-5">
+								<div class="form-group row">
+									<?php
+									if( $row->ta_image != '' ) {
+										?>
+										<label class="col-sm-4"><img id="thumbnil" style="width:100px;height:100px;" src="<?php echo base_url().$row->ta_image ;?>" alt="image"/></label>
+										<?php
+									} else {
+										?>
+										<label class="col-sm-4"><img id="thumbnil" style="width:100px;height:100px;" src="<?php echo base_url(); ?>assets/images/photo/no-image.png" alt="image"/></label>
+										<?php
+									}
+									?>
+									<div class="col-sm-8">
+										<input type="file" name="file" id="file" class="inputfile" accept="image/*" onchange="showMyImage(this)" />
+										<label for="file">
+											<svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17"><path d="M10 0l-5.2 4.9h3.3v5.1h3.8v-5.1h3.3l-5.2-4.9zm9.3 11.5l-3.2-2.1h-2l3.4 2.6h-3.5c-.1 0-.2.1-.2.1l-.8 2.3h-6l-.8-2.2c-.1-.1-.1-.2-.2-.2h-3.6l3.4-2.6h-2l-3.2 2.1c-.4.3-.7 1-.6 1.5l.6 3.1c.1.5.7.9 1.2.9h16.3c.6 0 1.1-.4 1.3-.9l.6-3.1c.1-.5-.2-1.2-.7-1.5z"></path></svg>
+											<span>Take photo</span>
+										</label>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>Name</b></label>
+									<div class="col-sm-9">
+										<input type="text" class="form-control" placeholder="Enter Name" name="display_name" id="display_name" value="<?php echo $row->ta_name; ?>" required>
+									</div>
+								</div>
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>Email</b></label>
+									<div class="col-sm-9">
+										<input type="email" class="form-control" placeholder="Enter Email" name="user_email" value="<?php echo $row->ta_email; ?>" required>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-sm-6">
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>Phone</b></label>
+									<div class="col-sm-9">
+										<input type="text" class="form-control" placeholder="Enter Phone" name="mobile_phone" value="<?php echo $row->ta_phone; ?>" required>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>Username</b></label>
+									<div class="col-sm-9">
+										<input type="text" class="form-control" placeholder="Enter username" value="<?php echo $row->ta_username;?>" disabled>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-sm-6">
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>Change Password</b></label>
+									<div class="col-sm-9">
+										<input type="password" class="form-control" placeholder="Enter Password" name="password">
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="row" style="margin-top: 15px">
+							<div class="col-sm-6">
+								<div class="form-group row">
+									<label class="col-sm-3 form-control-label"><b>City</b></label>
+									<div class="col-sm-9">
+										<select class="form-control" name="city_id" id="city_id">
+											<option value="0">--- Select City ---</option>
+											<?php
+											for($i=0;$i<count($getCity);$i++) {
+												if ($getCity[$i]['id'] == $row->city_id) {
+													$select = 'selected="selected"';
+												} else {
+													$select = '';
+												}
+												?>
+												<option <?php echo $select;?> value="<?php echo $getCity[$i]['id']; ?>"><?php echo $getCity[$i]['city_name']; ?></option>
+												<?php
+											}
+											?>
+										</select>
+									</div>
+								</div>
+							</div>
+                            
+                            <div class="col-sm-6">
+								<div class="form-group row">
+                                    <label class="col-sm-3 form-control-label"><b>Client Status</b></label>
+                                    <div class="input-group col-sm-9">
+                                        <div class="switch-toggle switch-2 well" style="margin-bottom:0px !important">
+                                            <?php if($row->ta_status == 0) { ?>
+                                                <input id="team_status_y" name="ta_status" type="radio" checked value="0">
+                                                <label for="team_status_y" onclick="">Enable</label>
+                                                <input id="team_status_n" name="ta_status" type="radio" value="1">
+                                                <label for="team_status_n" onclick="">Disable</label>
+                                                <a class="btn btn-primary"></a>
+                                            <?php } else { ?>
+                                                <input id="team_status_y" name="ta_status" type="radio" value="0">
+                                                <label for="team_status_y" onclick="">Enable</label>
+                                                <input id="team_status_n" name="ta_status" type="radio" checked value="1">
+                                                <label for="team_status_n" onclick="">Disable</label>
+                                                <a class="btn btn-primary"></a>
+                                            <?php } ?>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+						</div>
+						
+						<hr/>
+						
+						
+					</div>
+
+					<div class="dker p-a text-left">
+						<input type="hidden" name="id" value="<?php echo $row->id; ?>"></input>
+						<button type="submit" class="btn btn-fw info">Submit</button>
+						<a href="<?php echo base_url('client'); ?>" class="btn btn-fw danger">Cancel</a>
+					</div>
+				</div>
+			</form>
+		<?php } ?>
+	</div>
+</div>
+<script type="text/javascript">
+$(function() {
+    
+});
+
+function showMyImage(fileInput) {
+	var files = fileInput.files;
+		for (var i = 0; i < files.length; i++) {
+			var file = files[i];
+			var imageType = /image.*/;
+			if (!file.type.match(imageType)) {
+				continue;
+			}
+			var img=document.getElementById("thumbnil");
+			img.file = file;
+			var reader = new FileReader();
+			reader.onload = (function(aImg) {
+				return function(e) {
+				aImg.src = e.target.result;
+			};
+		})(img);
+		reader.readAsDataURL(file);
+	}
+}
+</script>

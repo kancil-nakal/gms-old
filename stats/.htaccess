@@ -1,0 +1,7 @@
+AuthName "tempelad.mesinrusak.com statistics"
+AuthType Basic
+AuthUserFile /home/tempelad/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
