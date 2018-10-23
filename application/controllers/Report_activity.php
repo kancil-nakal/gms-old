@@ -140,7 +140,12 @@ class Report_activity extends CI_Controller {
                         foreach($query1->result() as $data1) {
                             $photo = $data1->file_name ? 'http://gmsapi.mesinrusak.com/uploads/' . $data1->file_name . '.jpg' :  base_url() . 'assets/images/photo/no-image.png';
                             $photo = 'http://gmsapi.mesinrusak.com/uploads/' . $data1->file_name . '.jpg';
-                            $html .= '<img src="'. $photo .'" width="195px">&nbsp;';
+							
+                            $check = '/home/gmsapi/public_html/public/uploads/' . $data1->file_name . '.jpg';
+							
+							if (file_exists($check)) {   
+								$html .= '<img src="'. $photo .'" width="195px">&nbsp;';                         
+							}
                         }
                     }
             $html .= '
