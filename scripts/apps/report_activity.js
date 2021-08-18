@@ -18,6 +18,7 @@ function listReport() {
 		cache: false,
 		search : true,
 		pagination : true,
+		pageSize: 10,
 		striped: true,
 		sidePagination: 'server',
 		smartDisplay: false,

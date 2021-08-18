@@ -45,7 +45,8 @@ class MTeam extends CI_Model {
 		$query	= $this->db->query("SELECT A.id, A.team_name, ST.site_name, C.ta_name AS client_name, S.name AS shift_name, MP.name AS position_name, CT.city_name FROM team A LEFT JOIN site ST ON ST.id = A.site_id LEFT JOIN ta_users C ON C.id = ST.client_id LEFT JOIN master_shift S ON S.id = A.shift_id LEFT JOIN master_position MP ON MP.id = A.position_id LEFT JOIN city CT ON CT.id = A.city_id WHERE A.team_name like '%".$search."%' AND A.team_status = 0 ".$client." ORDER BY A.team_name ASC");
 
         $result["total"] = $query->num_rows();
-        
+                $query  = $this->db->query("SELECT A.id, A.team_name, ST.site_name, C.ta_name AS client_name, S.name AS shift_name, MP.name AS position_name, CT.city_name FROM team A LEFT JOIN site ST ON ST.id = A.site_id LEFT JOIN ta_users C ON C.id = ST.client_id LEFT JOIN master_shift S ON S.id = A.shift_id LEFT JOIN master_position MP ON MP.id = A.position_id LEFT JOIN city CT ON CT.id = A.city_id WHERE A.team_name like '%".$search."%' AND A.team_status = 0 ".$client." ORDER BY A.team_name ASC LIMIT $offset,$limit");        
+
 		$items 	= array();
 		while($row = $query->unbuffered_row('object')) {
 			array_push($items, $row);

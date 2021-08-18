@@ -21,4 +21,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 </div>
 
-<script type="text/javascript" src="<?= base_url() ?>scripts/apps/report_activity.js?8"></script>
+<script type="text/javascript" src="<?= base_url() ?>scripts/apps/report_activity.js?11"></script>
