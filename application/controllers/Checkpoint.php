@@ -36,9 +36,9 @@ class Checkpoint extends CI_Controller {
 	{
 		if($this->session->userdata('login')) {
 			$id 	= (isset($id)) ? intval($id) : 0;
-            
+
             $data['getShift']	= @$this->mapi->getData('master_shift' , null, 'id')->result_array();
-            
+
 			$this->load->view('blocks/header');
 			if ($id == 0) {
 				$this->load->view('checkpoint/add', $data);
@@ -70,7 +70,7 @@ class Checkpoint extends CI_Controller {
 		$team_id        = intval($this->input->post('team_id'));
 		$att_date       = trim($this->input->post('att_date'));
 		$att_shift      = intval($this->input->post('att_shift'));
-		
+
 		$data = array(
 			'checkpoint_id' => $checkpoint_id,
 			'site_id'       => $site_id,

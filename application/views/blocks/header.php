@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<meta name="apple-mobile-web-app-title" content="Flatkit">
 		<meta name="mobile-web-app-capable" content="yes">
 		<link rel="shortcut icon" sizes="196x196" href="<?php echo base_url(); ?>assets/images/ico.png">
-		  
+
 		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/animate.css/animate.min.css" type="text/css" />
 		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/glyphicons/glyphicons.css" type="text/css" />
 		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/font-awesome/css/font-awesome.min.css" type="text/css" />

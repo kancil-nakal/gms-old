@@ -213,5 +213,5 @@ function clearMarkers() {
 	}
 	markers = [];
 }
-</script> 
+</script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfVHt_u3hEO6R5Gavi8XWcCYQkA3nNhik&callback=initMap"></script>
